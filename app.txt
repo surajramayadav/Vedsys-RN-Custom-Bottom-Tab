@@ -1,0 +1,26 @@
+// import React from 'react'
+// import { View, Text } from 'react-native'
+// import Navigation from './Src/Routes/Navigation'
+// // import HomeScreen from './src/Screens/HomeScreen/HomeScreen'
+// // import Screen from './src/Screens/lastscreen/Screen'
+// // import Profile from './src/Screens/Profile/Profile'
+
+// // import Actionsheet from './src/Views/Auth/Actionsheet'
+// import Contacts from './Src/Screens/Contacts/Contacts'
+// import Media from './Src/Screens/Media/Media'
+// import MP from './Src/Screens/Microphone/Microphone'
+
+// import Prescription from './Src/Screens/Prescribe/Prescription'
+
+// export default function App() {
+//   return (
+//     <>
+//       {/* <Navigation /> */}
+//       {/* <Contacts /> */}
+//       {/* <Media /> */}
+//       {/* <MP /> */}
+//       {/* <Prescribe /> */}
+//       <Prescription />
+//     </>
+//   )
+// }
